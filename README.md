@@ -1,5 +1,6 @@
 # iti_task
-
+![](GIFS/UI.gif)
+![](GIFS/UI_in_action.gif)
 A new Flutter project.
 
 ## Getting Started
